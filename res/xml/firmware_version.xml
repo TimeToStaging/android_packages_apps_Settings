@@ -21,6 +21,14 @@
     android:title="@string/firmware_version"
     settings:keywords="@string/keywords_android_version">
 
+    <!-- Keli-UI version -->
+    <Preference
+        android:key="keli_version"
+        android:title="@string/keli_version"
+        android:summary="@string/summary_placeholder"
+        settings:enableCopying="true"
+        settings:controller="com.android.settings.deviceinfo.firmwareversion.KeliVersionPreferenceController"/>
+
     <!-- Android version -->
     <Preference
         android:key="os_firmware_version"
