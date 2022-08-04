@@ -8,4 +8,10 @@
     <string name="keli_maintainer">Maintainer</string>
     <string name="keli_maintainer_name" translatable="false">BuildBot</string>
     <string name="keli_maintainer_group" translatable="false">https://github.com/Keli-UI</string>
+
+    <!-- Statusbar lyric -->
+    <string name="status_bar_lyric_title">Status bar lyric</string>
+    <string name="status_bar_lyric_summary">Show lyric in status bar (need app support)</string>
+    <string name="status_bar_show_lyric_title">Enable status bar lyric</string>
+
 </resources>
