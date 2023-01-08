@@ -223,6 +223,12 @@
             android:summary="@string/status_bar_lyric_summary"
             android:fragment="com.android.settings.display.StatusbarLyricSettings"/>
 
+        <org.keli.support.preferences.SecureSettingSwitchPreference
+            android:key="show_wifi_standard_icon"
+            android:title="@string/show_wifi_standard_icon_title"
+            android:summary="@string/show_wifi_standard_icon_summary"
+            android:defaultValue="false" />
+
         <ListPreference
             android:key="theme"
             android:title="@string/device_theme"
