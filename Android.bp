@@ -71,6 +71,7 @@ android_library {
         "setupdesign",
         "androidx.lifecycle_lifecycle-runtime",
         "androidx.lifecycle_lifecycle-extensions",
+        "VendorSupport-preference",
         "guava",
         "jsr305",
         "net-utils-framework-common",
