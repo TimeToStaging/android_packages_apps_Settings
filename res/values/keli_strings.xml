@@ -8,6 +8,7 @@
     <string name="keli_maintainer">Maintainer</string>
     <string name="keli_maintainer_name" translatable="false">BuildBot</string>
     <string name="keli_maintainer_group" translatable="false">https://github.com/Keli-UI</string>
+    <string name="keli_github_group" translatable="false">https://github.com/Keli-UI</string>
 
     <!-- Statusbar lyric -->
     <string name="status_bar_lyric_title">Status bar lyric</string>

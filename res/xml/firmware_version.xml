@@ -41,8 +41,11 @@
         android:key="keli_version"
         android:title="@string/keli_version"
         android:summary="@string/keli_version_codename"
-        settings:enableCopying="true"
-        settings:searchable="false"/>
+        settings:enableCopying="true" >
+       <intent
+          android:action="android.intent.action.VIEW"
+          android:data="@string/keli_github_group"/>
+    </Preference>
 
    <!-- Keli-UI Maintainer -->
    <Preference
