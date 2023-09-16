@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Keli version -->
+    <string name="keli_version">Keli-UI 版本</string>
+    <string name="keli_version_default">未知</string>
+
+    <!-- Statusbar lyric -->
+    <string name="status_bar_lyric_title">状态栏歌词</string>
+    <string name="status_bar_lyric_summary">在状态栏上显示歌词(需要应用支持)</string>
+    <string name="status_bar_show_lyric_title">启用状态栏歌词</string>
+    <string name="status_bar_lyric_options_title">选项</string>
+    <string name="disguise_props_for_music_app_title">对音乐应用伪装机型</string>
+    <string name="disguise_props_for_music_app_summary">对一些音乐应用伪装机型以正确启用状态栏歌词. 启用该设置后需要重启音乐应用</string>
+
+    <!-- Per-app volume control -->
+    <string name="app_volume">应用独立音量</string>
+    <string name="app_volume_title">每个应用的音量单独控制</string>
+    <string name="app_volume_summary">允许为每个应用设置不同的音量级别</string>
+
+    <!-- Adaptive Playback -->
+    <string name="adaptive_playback_screen_title">智能暂停</string>
+    <string name="adaptive_playback_enabled">使用智能暂停</string>
+    <string name="adaptive_playback_disabled_summary">关闭</string>
+    <string name="adaptive_playback_intro_text">音量静音时自动暂停媒体，并在设定时间内恢复音量时自动恢复</string>
+    <string name="adaptive_playback_timeout_title">使用超时</string>
+    <string name="adaptive_playback_timeout_none">无超时</string>
+    <string name="adaptive_playback_timeout_none_summary">开启 (无超时)</string>
+    <string name="adaptive_playback_timeout_30_secs">30 秒</string>
+    <string name="adaptive_playback_timeout_30_secs_summary">开启 (30秒)</string>
+    <string name="adaptive_playback_timeout_1_min">1 分钟</string>
+    <string name="adaptive_playback_timeout_1_min_summary">开启 (1 分钟)</string>
+    <string name="adaptive_playback_timeout_2_min">2 分钟</string>
+    <string name="adaptive_playback_timeout_2_min_summary">开启 (2 分钟)</string>
+    <string name="adaptive_playback_timeout_5_min">5 分钟</string>
+    <string name="adaptive_playback_timeout_5_min_summary">开启 (5 分钟)</string>
+    <string name="adaptive_playback_timeout_10_min">10 分钟</string>
+    <string name="adaptive_playback_timeout_10_min_summary">开启 (10 分钟)</string>
+
+    <!-- Screen resolution -->
+    <string name="custom_screen_resolution_title">屏幕分辨率</string>
+
+    <!-- Volume Haptic feedback -->
+    <string name="haptic_on_slider_title">音量震动反馈</string>
+    <string name="haptic_on_slider_summary">调节音量时启动震动反馈（需先启用触摸反馈）</string>
+
+    <!-- Three-fingers-swipe to screenshot -->
+    <string name="swipe_to_screenshot_gesture_title">滑动截屏</string>
+    <string name="swipe_to_screenshot_gesture_summary">三指向下滑动以截屏</string>
+
+    <!-- Wi-Fi Standard icon -->
+    <string name="show_wifi_standard_icon_title">显示 Wi-Fi 类型</string>
+    <string name="show_wifi_standard_icon_summary">在 Wi-Fi 信号指示器中显示信号类型</string>
+
+</resources>
